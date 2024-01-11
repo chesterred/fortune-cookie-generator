@@ -1,4 +1,5 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is AI Fortune cookie generator. Use javascript and Chatgpt to achieve generator a fortune cookie with a fortune message.
+
 
 ## Getting Started
 
